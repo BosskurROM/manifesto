@@ -1,4 +1,4 @@
-![TodakROM](https://todak.com/store/wp-content/uploads/2018/12/todak_logo_black.png)
+![TodakROM](http://cms.egg.network/media/images/bosskur_gaming._2jpg.original.jpg)
 
 ## Basic
 
@@ -13,7 +13,7 @@ Read:
 Initialize repo:
 
 ```sh
-repo init -u https://github.com/TodakROM/manifesto.git -b 9.0
+repo init -u https://github.com/BosskurROM/manifesto.git -b 9.0
 ```
 
 Sync(Download):
@@ -33,6 +33,6 @@ export ALLOW_MISSING_DEPENDENCIES=true
 ```
 
 ```sh
-brunch <device> 2>&1 | tee ~/log/todak_$(date '+%Y%m%d_%H-%M-%S').log
+brunch <device> 2>&1 | tee ~/log/bosskur_$(date '+%Y%m%d_%H-%M-%S').log
 ```
 
